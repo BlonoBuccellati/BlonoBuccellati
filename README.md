@@ -1,4 +1,5 @@
 ## Hi there 👋
+[![GitHub Trends SVG](https://api.githubtrends.io/user/svg/BlonoBuccellati/langs)](https://githubtrends.io)
 
 <!--
 **BlonoBuccellati/BlonoBuccellati** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
